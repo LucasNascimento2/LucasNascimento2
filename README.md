@@ -6,6 +6,6 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=LucasNascimento2"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNascimento2&hide=contribs,prs&show_icons=true&theme=dracula&iclude_all_commits=true&count_private=true"/>
-<img height="180em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNascimento2&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNascimento2&hide=contribs,prs&show_icons=true&theme=dark&iclude_all_commits=true&count_private=true"/>
+<img height="180em" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNascimento2&layout=compact&langs_count=16&theme=dark"/>
 </div>
